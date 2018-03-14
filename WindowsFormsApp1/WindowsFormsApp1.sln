@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTableDemo", "WindowsFormsApp1\DataTableDemo.csproj", "{0B1626C2-972C-4B4A-B9C1-FFE644CE8382}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAdapterDemo", "DataAdapterDemo\DataAdapterDemo.csproj", "{D5997996-1E25-4777-A0EF-EF2AF18AC66A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0B1626C2-972C-4B4A-B9C1-FFE644CE8382}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B1626C2-972C-4B4A-B9C1-FFE644CE8382}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B1626C2-972C-4B4A-B9C1-FFE644CE8382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5997996-1E25-4777-A0EF-EF2AF18AC66A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5997996-1E25-4777-A0EF-EF2AF18AC66A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5997996-1E25-4777-A0EF-EF2AF18AC66A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5997996-1E25-4777-A0EF-EF2AF18AC66A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
